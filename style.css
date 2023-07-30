@@ -1,0 +1,54 @@
+/* button {
+    color:whitesmoke;
+    background: burlywood;
+    padding: 10px;
+} */
+
+
+h1 {
+    font-weight: 200;
+    color:#cfd8dc;
+
+}
+
+h2 {
+    font-weight: 200;
+    color:#b0bec5;
+
+}
+
+h3 {
+    font-weight: 200;
+    color:#90a4ae;
+
+}
+h4 {
+    font-weight: 200;
+    color:#78909c ;
+
+}
+h5 {
+    font-weight: 200;
+    color:#607d8b;
+
+}
+h6 {
+    font-weight: 200;
+    color:#546e7a;
+
+}
+
+
+
+
+
+
+
+p {
+    color:#616161;
+}
+
+blockquote {
+    color:#616161;
+    border-left: 5px solid #ba68c8;
+}
